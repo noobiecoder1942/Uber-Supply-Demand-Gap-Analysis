@@ -19,10 +19,7 @@ There are six attributes associated with each request made by a customer:
 
 Note: Only the trips to and from the airport are being considered.
 
-1. Visually identify the most pressing problems for Uber. 
-Hint: Create plots to visualise the frequency of requests that get cancelled or show 'no cars available'; identify the most problematic types of requests (city to airport / airport to city etc.) and the time slots (early mornings, late evenings etc.) using plots
-2. Find out the gap between supply and demand and show the same using plots.
-Find the time slots when the highest gap exists
-Find the types of requests (city-airport or airport-city) for which the gap is the most severe in the identified time slots
-3. What do you think is the reason for this issue for the supply-demand gap? Write the answer in less than 100 words. You may accompany the write-up with plot(s).
+1. Visually identify the most pressing problems for Uber. Create plots to visualise the frequency of requests that get cancelled or show 'no cars available'; identify the most problematic types of requests (city to airport / airport to city etc.) and the time slots (early mornings, late evenings etc.) using plots.
+2. Find out the gap between supply and demand and show the same using plots. Find the time slots when the highest gap exists. Find the types of requests (city-airport or airport-city) for which the gap is the most severe in the identified time slots.
+3. What do you think is the reason for this issue for the supply-demand gap?
 4. Recommend some ways to resolve the supply-demand gap.
